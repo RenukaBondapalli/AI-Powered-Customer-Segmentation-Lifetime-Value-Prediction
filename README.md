@@ -18,13 +18,12 @@ The results are displayed through an **interactive Streamlit dashboard** for mar
 
 ## 📸 Demo Screenshots
 
-![Demo 1](assets/demo1.png)
+## 📸 Demo Screenshots
 
-![Demo 2](assets/demo2.png)
-
-![Demo 3](assets/demo3.png)
-
-![Demo 4](assets/demo4.png)
+<img src="assets/demo1.png" width="600"><br><br>
+<img src="assets/demo2.png" width="600"><br><br>
+<img src="assets/demo3.png" width="600"><br><br>
+<img src="assets/demo4.png" width="600">
 
 ---
 
