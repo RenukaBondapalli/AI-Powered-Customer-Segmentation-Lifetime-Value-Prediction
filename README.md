@@ -16,6 +16,18 @@ The results are displayed through an **interactive Streamlit dashboard** for mar
 
 ---
 
+## 📸 Demo Screenshots
+
+![Demo 1](assets/demo1.png)
+
+![Demo 2](assets/demo2.png)
+
+![Demo 3](assets/demo3.png)
+
+![Demo 4](assets/demo4.png)
+
+---
+
 ## 🗂 Data Requirements
 Your CSV should contain at least:
 - **CustomerID**
@@ -25,10 +37,3 @@ Your CSV should contain at least:
 - **UnitPrice**
 
 ---
-
-## 📸 Demo Screenshots
-
-![Demo 1](assets/demo1.png)
-![Demo 2](assets/demo2.png)
-![Demo 3](assets/demo3.png)
-![Demo 4](assets/demo4.png)
