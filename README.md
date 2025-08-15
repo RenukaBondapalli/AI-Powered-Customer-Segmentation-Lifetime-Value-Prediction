@@ -1,0 +1,2 @@
+# AI-Powered-Customer-Segmentation-Lifetime-Value-Prediction
+An end-to-end machine learning application that segments customers using RFM (Recency, Frequency, Monetary) analysis with K-Means clustering and predicts Customer Lifetime Value (LTV) using advanced regression models. The project features an interactive Streamlit dashboard for data upload, visualization, and actionable marketing insights.
